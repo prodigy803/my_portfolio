@@ -14,7 +14,7 @@ export default function Projects(){
                         Projects I have completed
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        Some description
+                        Here are some of the projects that I have completed (among the others that I started but I couldn't finish :)). The projects range from a wide variety of domains, some are audit focused (professional projects for who the link isnt present), while some are academic or personal projects.
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">

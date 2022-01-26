@@ -27,7 +27,7 @@ export const projects = [
         title: "Created a Reinforcement Learning Environment",
         context: "Professional",
         description: 
-        "Python based solution that simulates a Reinforcement Learning ",
+        "Python based solution that simulates a OpenAI Gym For Training a Reinforcement Learning Agent",
         image: "./project-1.gif",
         link: "https://github.com/prodigy803/UB_CSE546_Project1"
     }
@@ -36,15 +36,15 @@ export const projects = [
 export const testimonials = [
     {
         name: "Jaya Suriya",
-        company: "Ernst and Young",
-        Quote: 
-        "Pj is the best",
+        company: "Ernst and Young (EY)",
+        Quote: "Pj is the best",
         image: "./project-1.gif",
-    },
-    
+    }
 ]
 
 export const skills = [
     
-    "Python","SQL","DL"
+    "Python","SQL","Deep Learning", "Reinforcement Learning",
+    "PowerBI","Audit","Analytics","API Developement","Machine Learning", 
+    "Backend Developement","Information Retreival","OCR"
 ]
