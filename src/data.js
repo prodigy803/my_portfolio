@@ -30,6 +30,22 @@ export const projects = [
         "Python based solution that simulates a OpenAI Gym For Training a Reinforcement Learning Agent",
         image: "./project-1.gif",
         link: "https://github.com/prodigy803/UB_CSE546_Project1"
+    },
+    {
+        title: "Twitter Search Engine",
+        context: "Academic",
+        description:
+        "A group project at SUNY Buffalo, in which we created a search engine, that indexed tweets and retrieved them based a user query.",
+        image: "./twitter_gif.gif",
+        link: "https://github.com/sagar118/IR_final_project"
+    },
+    {
+        title: "Automate Your Invoice",
+        context: "Personal",
+        description:
+        "A personal automation project, in which one may create a simple text file and use that to extract information from PDF's into an Excel File.",
+        image: "./project-1.gif",
+        link: "https://github.com/prodigy803/Automate_Your_Invoice"
     }
 ]
 

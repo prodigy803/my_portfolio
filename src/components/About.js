@@ -5,15 +5,25 @@ export default function About(){
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md: text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4x1 text-3x1 mb-4 font-medium text-white">
                         Hi, I'm Pushkaraj (or just PJ)
-                        <br className="hidden lg:inline-block"/> I love to solve data problems, and I am actively learning Data Engineering and API developement.
+                        <br className="hidden lg:inline-block"/> 
+                        I love to solve data problems, and I am actively learning Data Engineering and API developement. 
+                        I am currently pursuing my masters in Computer Science from SUNY Buffalo, specializing in Software and 
+                        Machine Learning. 
+                        
+                        <br/><br/>
+
+                        Some non-trivial stuff about me. I love cooking and coming up with weird combinations that taste good. I am learning how to 
+                        play Dota 2 and understanding the overall tactics. I found that game really interesting.
+                        <br/><br/>
+
+                        If you feel like I can contribute to your organization or team, please let me know, I am actively looking for opportunities
+                        in the field of software engineering and data science.
                     </h1>
-                    <p className="mb-8 leading-relaxed">
-                        Add more description
-                    </p>
+                    
                     <div className="flex justify-center">
                         <a href="#contact"
                         className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-                        Hire or Work with Me
+                        Hire Or Work With Me
                         </a>
                         <a
                         href="#projects"
