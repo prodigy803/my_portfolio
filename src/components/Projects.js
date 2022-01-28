@@ -11,7 +11,7 @@ export default function Projects(){
                 <div className="flex flex-col w-full mb-20">
                     <CodeIcon className="mx-auto inline-block w-10 mb-4" />
                     <h1 className="sm:text-4x1 text-3x1 font-medium title-font mb-4 text-white">
-                        Projects I have completed
+                        Projects I have completed (please click on the tiles)
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
                         Here are some of the projects that I have completed (among the others that I started but I couldn't finish :)). The projects range from a wide variety of domains, some are audit focused (professional projects for who the link isnt present), while some are academic or personal projects.

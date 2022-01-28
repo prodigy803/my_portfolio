@@ -4,7 +4,7 @@ export const projects = [
         context: "Professional",
         description: 
         "Python based solution that extracts specific information from different format documents.",
-        image: "./project-1.gif",
+        image: "./smart_expense_analyser.gif",
         link: "https://www.ey.com/en_us/assurance/private-client-audit-experience-service-offerings"
     },
     {
@@ -12,7 +12,7 @@ export const projects = [
         context: "Professional",
         description: 
         "Python based solution that extracts specific information from the minutes of a meeting and summarizes the information.",
-        image: "./project-1.gif",
+        image: "./meeting-yesterdays-meeting.gif",
         link: "https://www.ey.com/en_us/assurance/private-client-audit-experience-service-offerings"
     },
     {
@@ -20,7 +20,7 @@ export const projects = [
         context: "Professional",
         description: 
         "Python based solution that extracts answers specific information based on a lease agreement document.",
-        image: "./project-1.gif",
+        image: "./Q-A.gif",
         link: "https://www.ey.com/en_us/assurance/private-client-audit-experience-service-offerings"
     },
     {
@@ -28,7 +28,7 @@ export const projects = [
         context: "Professional",
         description: 
         "Python based solution that simulates a OpenAI Gym For Training a Reinforcement Learning Agent",
-        image: "./project-1.gif",
+        image: "./reinforcement_learning.gif",
         link: "https://github.com/prodigy803/UB_CSE546_Project1"
     },
     {
@@ -44,7 +44,7 @@ export const projects = [
         context: "Personal",
         description:
         "A personal automation project, in which one may create a simple text file and use that to extract information from PDF's into an Excel File.",
-        image: "./project-1.gif",
+        image: "./automate_invoice.gif",
         link: "https://github.com/prodigy803/Automate_Your_Invoice"
     }
 ]
